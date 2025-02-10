@@ -1,0 +1,26 @@
+name: LeetCode Sync
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  sync_leetcode:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Fetch LeetCode Submissions
+      run: |
+        python fetch_leetcode.py  # This script should save solutions in repo
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.email "your-email@example.com"
+        git config --global user.name "LeetCode Auto Sync"
+        git add .
+        git commit -m "Updated LeetCode Solutions" || exit 0
+        git push
