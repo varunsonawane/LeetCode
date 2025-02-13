@@ -30,3 +30,5 @@ Each solution is automatically added and organized by problem number and title. 
 
 🚀 Happy Coding!
 
+<a href="https://www.linkedin.com/in/varun-sonawane" target="_blank">LinkedIn: Varun Sonawane</a>
+<a href="https://github.com/varunsonawane" target="_blank">GitHub: varunsonawane</a>
