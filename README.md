@@ -25,6 +25,7 @@ Each solution is automatically added and organized by problem number and title. 
 ## 🔗 Connect with Me
 - 📝 LinkedIn: [Varun Sonawane](https://www.linkedin.com/in/varun-sonawane)
 - 🐙 GitHub: [varunsonawane](https://github.com/varunsonawane)
+- 🧑‍💻 LeetCode: [Varun Sonawane](https://leetcode.com/u/vsonawane)
 - 📧 Email: vsonawa23@gmail.com
 
 🚀 Happy Coding!
