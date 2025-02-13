@@ -30,5 +30,8 @@ Each solution is automatically added and organized by problem number and title. 
 
 🚀 Happy Coding!
 
-<a href="https://www.linkedin.com/in/varun-sonawane" target="_blank">LinkedIn: Varun Sonawane</a>
-<a href="https://github.com/varunsonawane" target="_blank">GitHub: varunsonawane</a>
+🔗 Connect with Me  
+- 📝 [LinkedIn: Varun Sonawane](https://www.linkedin.com/in/varun-sonawane) _(Right-click → Open in New Tab)_  
+- 🐙 [GitHub: varunsonawane](https://github.com/varunsonawane) _(Right-click → Open in New Tab)_  
+- 📧 Email: vsonawa23@gmail.com
+
