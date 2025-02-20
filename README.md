@@ -30,12 +30,3 @@ Each solution is automatically added and organized by problem number and title. 
 
 🚀 Happy Coding!
 
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0197-rising-temperature](https://github.com/varunsonawane/LeetCode/tree/master/0197-rising-temperature) |
-<!---LeetCode Topics End-->
