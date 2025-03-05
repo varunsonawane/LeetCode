@@ -1,7 +1,5 @@
 # Write your MySQL query statement below
-select round(sum(order_date=customer_pref_delivery_date)*100
-                                /
-                (select count(distinct(customer_id)) from delivery),2) 
+select round(avg(order_date = customer_pref_delivery_date)*100,2) 
                  as immediate_percentage
 from delivery
 where (customer_id, order_date) in
