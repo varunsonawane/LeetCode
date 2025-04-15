@@ -5,4 +5,4 @@ select d.name as Department, e.name as Employee, salary
         from employee) e
 join department d
 on e.departmentId = d.id
-where rnk=1
+where rnk=1;
