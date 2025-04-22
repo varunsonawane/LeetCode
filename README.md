@@ -42,4 +42,5 @@ Each solution is automatically added and organized by problem number and title. 
 | [0178-rank-scores](https://github.com/varunsonawane/LeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/varunsonawane/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0595-big-countries](https://github.com/varunsonawane/LeetCode/tree/master/0595-big-countries) |
+| [3782-find-valid-emails](https://github.com/varunsonawane/LeetCode/tree/master/3782-find-valid-emails) |
 <!---LeetCode Topics End-->
