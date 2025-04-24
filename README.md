@@ -41,6 +41,7 @@ Each solution is automatically added and organized by problem number and title. 
 | [0177-nth-highest-salary](https://github.com/varunsonawane/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/varunsonawane/LeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/varunsonawane/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/varunsonawane/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/varunsonawane/LeetCode/tree/master/0595-big-countries) |
 | [3782-find-valid-emails](https://github.com/varunsonawane/LeetCode/tree/master/3782-find-valid-emails) |
 <!---LeetCode Topics End-->
