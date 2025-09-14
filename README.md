@@ -45,4 +45,12 @@ Each solution is automatically added and organized by problem number and title. 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/varunsonawane/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/varunsonawane/LeetCode/tree/master/0595-big-countries) |
 | [3782-find-valid-emails](https://github.com/varunsonawane/LeetCode/tree/master/3782-find-valid-emails) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/varunsonawane/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/varunsonawane/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
